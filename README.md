@@ -8,18 +8,20 @@
 _Replace anything surrounded by the `< >` symbols (including the < >)._
 
 ## SUMMARY OF LATE POLICY FOR THE COURSE:
- < Provide a  description of the courses late policy >
+ Any late labs that do not use grace days are deducted 10% from the total possible points for every 24 hour period it is late. 
+
+You may submit or resubmit any late or previous lab at any time for up to 50% credit; however, you may only submit labs for regrading up to and including the last day classes are scheduled during the semester.
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ None
 
 ## REFERENCES:
- < List any outside resources used >
+ Only used the description for the assignment 
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ Still getting used to coding. Confused on what a repl, readme.md, and main.py is and was wondering why a main.py and a readme.md are group together since the read.me seems unrelated to the main.py
