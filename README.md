@@ -5,8 +5,6 @@
 
 ***
 
-_Replace anything surrounded by the `< >` symbols (including the < >)._
-
 ## SUMMARY OF LATE POLICY FOR THE COURSE:
  Any late labs that do not use grace days are deducted 10% from the total possible points for every 24 hour period it is late. 
 
@@ -24,4 +22,4 @@ Grace days remaining: 5/5
  Only used the description for the assignment 
 
 ## MISCELLANEOUS COMMENTS:
- Still getting used to coding. Confused on what a repl, readme.md, and main.py is and was wondering why a main.py and a readme.md are group together since the read.me seems unrelated to the main.py
+ Still getting used to coding. Confused on what a repl, readme.md, and main.py is and was wondering why a main.py and a readme.md are grouped together since the read.me seems unrelated to the main.py. Main.py is used to run code whereas README.md is used to store notes on a repository?
